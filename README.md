@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-   ##'''🌟🌟🌟🌱 I’m currently learning ..blockchain(web3)🌟🌟🌟<br/>
+<h3 align="center">🌟🌟🌟🌱 I’m currently learning ..blockchain(web3)🌟🌟🌟<br/></h3>
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyorap&show_icons=true&locale=en&layout=compact" alt="diyorap" /></p>
 
