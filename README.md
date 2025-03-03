@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <hr/>
-<h3 align="center">🌟🌟🌟🌱 I’m currently learning ..blockchain..🌟🌟🌟<br/></h3>
+<h3 align="center">🌟🌟🌟🌱 I’m currently learning ...🌟🌟🌟<br/></h3>
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
